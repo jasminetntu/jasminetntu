@@ -10,6 +10,8 @@ I enjoy combining my technical and artistic/creative skills mainly through front
 - **Frameworks/Libraries**: React.js, Node.js, Unity, GameMaker
 - **Tools/Software**: Figma, Procreate, Notion, Google Drive & Microsoft Applications
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminetntu&show_icons=true&theme=rose&hide_rank=true&custom_title=my%20stats%20<3)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🧸 Some Projects
 - **Before I Go**: A 2D, pixel-style visual novel following a terminally ill patient who only has a day to live and doesn't have enough time to say goodbye to all their loved ones.
    - Won **1st place** out of **40+** teams and **140+** participants from various colleges, through community voting based on the theme _"Not Enough Time"_.

@@ -8,7 +8,7 @@ I enjoy combining my technical and artistic/creative skills mainly through front
 ### 🌷 Tech Stack
 - **Languages**: Java, Python, HTML/CSS, JavaScript
 - **Frameworks/Libraries**: React.js, Node.js, Unity, GameMaker
-- **Tools/Software**: Figma, Procreate, Notion, Google Drive & Microsoft Applications
+- **Tools/Software**: Figma, Procreate, Notion, Adobe Photoshop & Animate, Google Drive & Microsoft Applications
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminetntu&show_icons=true&theme=rose&hide_rank=true&custom_title=my%20stats%20>_<)](https://github.com/anuraghazra/github-readme-stats)
 

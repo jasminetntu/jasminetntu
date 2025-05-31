@@ -32,7 +32,8 @@ I enjoy combining my technical and artistic/creative skills mainly through front
 - Being whimsical & staying curious!
 
 ### 🗝️ Contact Me!
-<img src="icons/icon_linkedin_white.png" width="25" bottom="0"></img> [in/jasminetntu/](https://www.linkedin.com/in/jasminetntu/)
+<img src="icons/icon_linkedin_white.png" width="12" bottom="0"></img> [*in/jasminetntu/*](https://www.linkedin.com/in/jasminetntu/)
+<img src="icons/icon_email_white.png" width="15" bottom="0"></img> _jasminetntu@gmail.com_
 
 <!--
 **jasminetntu/jasminetntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

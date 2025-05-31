@@ -19,9 +19,9 @@ I enjoy combining my technical and artistic/creative skills mainly through front
    - Implemented branching dialogue system, point system, and different endings for each character in under a week.
 
 - **Blowfish Budgeting**: A free budgeting website that automatically calculates your budget based on your provided income.
-   - Used HTML/CSS, JavaScript, React.js, Node.js, and TypeScript to create a charming, polished website, complete with a blowfish animation.
-   - Used Supabase & Clerk to implement the database & user authentication. Keeps track of every expense/saving, automatically calculates the difference between budget & actual spending.
-   - Implemented a unique blowfish design feature to motivate users to stay within their budget.
+   - Developed a charming, polished budgeting website that automatically calculates budgets based on user income, tracks individual expenses & savings, and shows the difference between budgeted & actual spending.
+   - Utilized Supabase & Clerk for database management & user authentication.
+   - Designed, animated, and developed “Budgey the Blowfish,” a playful mascot that encourages users to stay on budget with engaging visual feedback
 
 - **Draftly**: A website that makes applying easier by tailoring resumes to the job description.
    - Used Figma, HTML/CSS, React.js, and Node.js to design & create a visually appealing, user-friendly website.

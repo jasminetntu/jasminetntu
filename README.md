@@ -15,7 +15,7 @@ I enjoy combining my technical and artistic/creative skills mainly through front
 ### 🫧 Some Projects
 • **Before I Go**: A 2D, pixel-style visual novel following a terminally ill patient who only has a day to live and doesn't have enough time to say goodbye to all their loved ones.
 
-  -> Won **1st place** out of **40+** teams and **140+** participants from various colleges, through community voting based on the theme *"Not Enough Time"*.
+   -> Won **1st place** out of **40+** teams and **140+** participants from various colleges, through community voting based on the theme *"Not Enough Time"*.
 
   -> Utilized Gamemaker and collaborated with a team of 5 as the lead programmer.
 

@@ -1,9 +1,9 @@
 ## Hi, everyone! (^-^)/ ~☆
 
 ### ☘️ About Me
-I'm Jasmine, or Jammy, an aspiring software developer who likes to create fun, pretty products that help others and make people happy.
+I'm Jasmine, or Jammy, an aspiring software developer who likes to create fun, pretty products that help others and make people happy!!
 
-I enjoy combining my technical and artistic/creative skills mainly through frontend development, UI/UX design, and game development. I am also often the project manager/leader, making sure everyone is on task, and there are no merging conflicts!
+I enjoy combining my technical and artistic/creative skills mainly through frontend development, UI/UX design, and game development. I am also often the project manager/leader, making sure everyone is on task and that there are no merging conflicts. T_T
 
 ### 🌷 Tech Stack
 - **Languages**: Java, Python, HTML/CSS, JavaScript
@@ -12,7 +12,7 @@ I enjoy combining my technical and artistic/creative skills mainly through front
 
 ### 🫧 Some Projects
 - **Before I Go**: A 2D, pixel-style visual novel following a terminally ill patient who only has a day to live and doesn't have enough time to say goodbye to all their loved ones.
-   - Won **1st place** out of **40+** teams and **140+** participants from various colleges, through community voting based on the theme *"Not Enough Time"*.
+   - Won **1st place** out of **40+** teams and **140+** participants from various colleges, through community voting based on the theme _"Not Enough Time"_.
    - Utilized Gamemaker and collaborated with a team of 5 as the lead programmer.
    - Implemented branching dialogue system, point system, and different endings for each character in under a week.
 
@@ -32,7 +32,7 @@ I enjoy combining my technical and artistic/creative skills mainly through front
 - Being whimsical & staying curious!
 
 ### 🗝️ Contact Me!
-![linkedin_icon](icons/LinkedIn-Icon-Black-Logo.wine.svg)
+ [LinkedIn](https://www.linkedin.com/in/jasminetntu/)
 
 <!--
 **jasminetntu/jasminetntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

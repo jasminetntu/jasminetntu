@@ -2,6 +2,7 @@
 
 ### ☘️ About Me
 I'm Jasmine, or Jammy, an aspiring software developer who likes to create fun, pretty products that help others and make people happy.
+
 I enjoy combining my technical and artistic/creative skills mainly through frontend development, UI/UX design, and game development. I am also often the project manager/leader, making sure everyone is on task, and there are no merging conflicts!
 
 ### 🌷 Tech Stack

@@ -32,7 +32,7 @@ I enjoy combining my technical and artistic/creative skills mainly through front
 - Being whimsical & staying curious!
 
 ### 🗝️ Contact Me!
-
+![linkedin_icon](icons/LinkedIn-Icon-Black-Logo.wine.svg)
 
 <!--
 **jasminetntu/jasminetntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

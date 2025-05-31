@@ -1,7 +1,7 @@
 ## Hi, everyone! (^-^)/ ~☆
 
 ### ☘️ About Me
-I'm Jasmine, or Jammy, an aspiring software developer who likes to create fun, pretty products that help others and make people happy!!
+I'm Jasmine (or Jammy), an aspiring software developer who likes to create fun, pretty products that help others and make people happy!!
 
 I enjoy combining my technical and artistic/creative skills mainly through frontend development, UI/UX design, and game development. I am also often the project manager/leader, making sure everyone is on task and that there are no merging conflicts. T_T
 
@@ -10,7 +10,7 @@ I enjoy combining my technical and artistic/creative skills mainly through front
 - **Frameworks/Libraries**: React.js, Node.js, Unity, GameMaker
 - **Tools/Software**: Figma, Procreate, Notion, Google Drive & Microsoft Applications
 
-### 🫧 Some Projects
+### 🧸 Some Projects
 - **Before I Go**: A 2D, pixel-style visual novel following a terminally ill patient who only has a day to live and doesn't have enough time to say goodbye to all their loved ones.
    - Won **1st place** out of **40+** teams and **140+** participants from various colleges, through community voting based on the theme _"Not Enough Time"_.
    - Utilized Gamemaker and collaborated with a team of 5 as the lead programmer.
@@ -25,15 +25,16 @@ I enjoy combining my technical and artistic/creative skills mainly through front
    - Used Figma, HTML/CSS, React.js, and Node.js to design & create a visually appealing, user-friendly website.
    - Utilized OpenAI to select only the most relevant information from your experience to put on your resume, returning a downloadable PDF file.
 
-### 🎀 Things I Love
+### 💌 Things I Love
 - Illustration & animation, graphic & UI/UX design
 - Exploring new cultures and foods
 - Collecting trinkets, enjoying nature
 - Being whimsical & staying curious!
 
-### 🗝️ Contact Me!
-<img src="icons/icon_linkedin_white.png" width="12" bottom="0"></img> [*in/jasminetntu/*](https://www.linkedin.com/in/jasminetntu/)
-<img src="icons/icon_email_pink.png" width="15" bottom="0"></img> _jasminetntu@gmail.com_
+### 🫧 Contact Me!
+<img src="icons/icon_linkedin_white.png" width="12" bottom="0"></img> [*&nbsp;in/jasminetntu/*](https://www.linkedin.com/in/jasminetntu/) 
+&nbsp;&nbsp;&nbsp;
+<img src="icons/icon_email_pink.png" width="15" bottom="0"></img> &nbsp;*jasminetntu@gmail.com*
 
 <!--
 **jasminetntu/jasminetntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

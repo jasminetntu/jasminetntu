@@ -1,9 +1,11 @@
 ## Hi, everyone! (^-^)/ ~☆
 
 ### ☘️ About Me
-I'm Jasmine Tu, an aspiring software developer who likes to create impactful products and experiences, whether this means helping someone or making someone happy!
+I'm Jasmine Tu, an aspiring software developer who loves building impactful and enjoyable experiences--whether this means helping someone or simply making them smile! 
 
-I enjoy combining my technical and artistic/creative skills mainly through frontend development, UI/UX design, and game development. I am also often the project manager/leader, ensuring that everyone is on task and there are no merging conflicts.
+I enjoy combining my technical and creative sides through frontend development, UI/UX design, and game development. I've led several hackathons and projects, often taking on multiple roles in engineering, project management, and design. I thrive in collaborative environments, always ensuring that the team is on track to deliver a polished, meaningful product while avoiding merge conflicts.
+
+As a current CS student at De Anza College, I’m always curious and excited to learn more, and committed to building with purpose and passion! Thanks for visiting my little corner of the internet. 
 
 ### 🌷 Tech Stack
 - **Languages**: Java, Python, HTML/CSS, JavaScript

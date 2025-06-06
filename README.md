@@ -1,9 +1,9 @@
 ## Hi, everyone! (^-^)/ ~☆
 
 ### ☘️ About Me
-I'm Jasmine (or Jammy), an aspiring software developer who likes to create fun, pretty products that help others and make people happy!!
+I'm Jasmine Tu, an aspiring software developer who likes to create fun, pretty products that have an impact on others, whether this means helping someone or making someone happy!
 
-I enjoy combining my technical and artistic/creative skills mainly through frontend development, UI/UX design, and game development. I am also often the project manager/leader, making sure everyone is on task and that there are no merging conflicts. T_T
+I enjoy combining my technical and artistic/creative skills mainly through frontend development, UI/UX design, and game development. I am also often the project manager/leader, ensuring that everyone is on task and there are no merging conflicts.
 
 ### 🌷 Tech Stack
 - **Languages**: Java, Python, HTML/CSS, JavaScript
@@ -29,9 +29,9 @@ I enjoy combining my technical and artistic/creative skills mainly through front
 
 ### 💌 Things I Love
 - Illustration & animation, graphic & UI/UX design
-- Exploring new cultures and foods
-- Collecting trinkets, enjoying nature
-- Being whimsical & staying curious!
+- Exploring new cultures, fashion, and foods
+- Collecting trinkets, appreciating nature
+- Spreading love & staying curious!
 
 ### 🫧 Contact Me!
 <img src="icons/icon_linkedin_white.png" width="12" bottom="0"></img> [*&nbsp;in/jasminetntu/*](https://www.linkedin.com/in/jasminetntu/) 

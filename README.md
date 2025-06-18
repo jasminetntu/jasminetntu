@@ -1,6 +1,6 @@
 ## Hi, everyone! (^-^)/ ~☆
 
-<img src="icons/jammy_banner.tiff"></img>
+<img src="icons/jammy_banner.png"></img>
 
 ### ☘️ About Me
 I'm Jasmine Tu, an aspiring software developer who loves building impactful and enjoyable experiences--whether this means helping someone or simply making them smile! 

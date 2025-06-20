@@ -3,7 +3,7 @@
 <img src="icons/jammy_banner.png"></img>
 
 ### ☘️ About Me
-I'm Jasmine Tu, an aspiring software developer who loves building impactful and enjoyable experiences--whether this means helping someone or simply making them smile! 
+I'm Jasmine Tu, an aspiring software developer who loves building impactful and empathetic experiences--whether this means helping someone or simply making them smile! 
 
 I enjoy combining my technical and creative sides through frontend development, UI/UX design, and game development. I've led several hackathons and projects, often taking on multiple roles in engineering, project management, and design. I thrive in collaborative environments, always ensuring that the team is on track to deliver a polished, meaningful product while avoiding merge conflicts.
 

@@ -1,6 +1,6 @@
 ## Hi, everyone! (^-^)/ ~☆
 
-<img src="icons/jammy_banner.png"></img>
+<img src="icons/jammy_banner.png" alt="Personal, Hand-drawn Banner"></img>
 
 ### ☘️ About Me
 I'm Jasmine Tu, an aspiring software developer who loves building impactful and empathetic experiences--whether this means helping someone or simply making them smile! 
@@ -38,9 +38,9 @@ As a current CS student at De Anza College, I’m always curious, excited to lea
 - Spreading love & staying curious!
 
 ### 🫧 Contact Me!
-<img src="icons/icon_linkedin_white.png" width="12" bottom="0"></img> [*&nbsp;in/jasminetntu/*](https://www.linkedin.com/in/jasminetntu/) 
+<img src="icons/icon_linkedin_white.png" alt="Linkedin Icon" width="12" bottom="0"></img> [*&nbsp;in/jasminetntu/*](https://www.linkedin.com/in/jasminetntu/) 
 &nbsp;&nbsp;&nbsp;
-<img src="icons/icon_email_pink.png" width="15" bottom="0"></img> &nbsp;*jasminetntu@gmail.com*
+<img src="icons/icon_email_pink.png" alt="Email Icon" width="15" bottom="0"></img> &nbsp;*jasminetntu@gmail.com*
 
 <!--
 **jasminetntu/jasminetntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

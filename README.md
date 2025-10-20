@@ -25,7 +25,7 @@ I'm endlessly curious and committed to building with purpose and passion. Thanks
 
    [![My Frameworks/Libraries](https://skillicons.dev/icons?i=react,nodejs&perline=10)](https://skillicons.dev)
 
-- **Design Tools**L:
+- **Design Tools**:
 
    [![My Design Tools](https://skillicons.dev/icons?i=figma,ps&perline=10)](https://skillicons.dev)
   <img width="50" height="50" alt="Adobe Animate" src="https://github.com/user-attachments/assets/ec037366-fd5a-4f02-837e-e1f2ada3a63e" />

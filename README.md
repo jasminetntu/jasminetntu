@@ -8,9 +8,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=black&color=A3CFE3)
 
 ## ☘️ About Me
-I'm Jasmine Tu, an aspiring software developer from De Anza College who loves building impactful and empathetic experiences.
+I'm Jasmine Tu, an aspiring software engineer attending UC Irvine who loves building impactful and empathetic experiences.
 
-I specialize in combining my technical and creative skills across full-stack development, UI/UX design, and game development. As a project leader, I've taken on multiple roles in engineering, project management, and design. I thrive in collaborative environments, always ensuring the team delivers a polished, meaningful product. 
+I specialize in combining my technical and creative skills across full-stack development, Agentic AI workflows, UI/UX design, and game development. As a project leader, I've taken on multiple roles in engineering, project management, and design. I thrive in collaborative environments, always ensuring the team delivers a polished, meaningful product. 
 
 I'm endlessly curious and committed to building with purpose and passion. Thanks for visiting! 🌸
 
